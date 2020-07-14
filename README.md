@@ -32,4 +32,10 @@
             * 프로젝트별로 설정을 해주어야 한다
             * build.gradle에 compile('org.project.lombok:lombok')
             * IntelliJ settings에서 Enable annotation processing 체크
+            
+* 2일차
+    * 3장 : SpringBoot 에서 JPA로 데이터베이스 다루기
+            * JPA 
+                * ORM ( Object Relational Mapping ) 은 객체를 매핑
+                * iBatis, MyBatis 는 ORM이 아닌 SQL Mapper ( 쿼리를 매핑 )
 
